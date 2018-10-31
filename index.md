@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my digital media portfollio
 
 You can use the [editor on GitHub](https://github.com/l3ahp3ah/lmzgPortfollioDigitalmedia/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
